@@ -2,7 +2,7 @@
 
 Statistics based on dice roll
 
-WHAT IS THE PROGRAM?
+## WHAT IS THE PROGRAM?
 
 I have created a program in Python that simulates a 10-sided dice rolling 1000 times​
 
@@ -10,7 +10,7 @@ I have then used this data for real-time statistical analysis​
 
 The program also displays a histogram with all the relevant data​
 
-HISTOGRAM PLOT
+## HISTOGRAM PLOT
 
 I chose an aligned bins histogram plot, as it allows me to treat the data as a numerical distribution​
 
@@ -18,7 +18,7 @@ It also allows me to plot statistics such as sample mean and median onto the gra
 
 Furthermore, the data in this case is discrete, which is suited for this type of histogram
 
-STATISTICAL ANALYSIS
+## STATISTICAL ANALYSIS
 
 I have computed multiple statistical values from this
 data:​
@@ -40,7 +40,7 @@ from expected)​
 p-value (probability of seeing this unevenness on the
 histogram by chance)
 
-MEANING OF STATISTICAL VALUES​
+## MEANING OF STATISTICAL VALUES​
 
 ​Sample standard deviation allows you to understand the
 distribution of the data and how spread out it is​
@@ -62,7 +62,7 @@ randomness, or due to a biased/unfair dice​
 p-value tells us the chance of these differences being due to
 randomness (high p-value, very fair dice)​
 
-COMPARISON WITH THEORETICAL VALUES
+## COMPARISON WITH THEORETICAL VALUES
 
 The experimental values won't perfectly match the theoretical values​
 
