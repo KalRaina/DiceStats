@@ -74,7 +74,6 @@ Chi-square and p-value do not have any theoretical values to compare against as 
 
 They are test statistics, to see whether the die is fair​
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalRaina&layout=compact)
 ​
 
 ​​
